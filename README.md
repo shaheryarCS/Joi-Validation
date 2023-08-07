@@ -19,8 +19,7 @@
 Simple Joi demo project for API validation 
     <br/>
     <p ><strong>Advantages</strong><p/>
-    <br/>
-    
+    <br/>  
 * Secure APIs
 * Crystal clear parameters you predefined
 * restrict parameters and query, and also their types
